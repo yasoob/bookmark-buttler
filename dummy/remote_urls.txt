@@ -1,0 +1,12 @@
+http://stackoverflow.com/questions/29397002/creating-database-with-sqlalchemy-in-flask
+http://spotify.com
+http://unatickets.com
+http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/
+https://news.ycombinator.com/
+http://youtube.com
+https://www.wikiwand.com/
+https://www.mozilla.org/en-US/firefox/products/
+https://www.ubuntu.com/
+https://protonmail.com/blog/encrypted_email_authentication/
+https://github.com/
+https://blog.miguelgrinberg.com/post/using-celery-with-flask
